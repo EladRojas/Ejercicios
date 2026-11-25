@@ -10,3 +10,13 @@ dotnet new globaljson --sdk-version 8.0.428
 ""
 Se crea proyecto en consola:
 dotnet new console --name CsBases
+cd CsBases (para entrar en el proyecto)
+**
+al crear el proyecto no creó el sln, así que se crea con los siguientes comandos
+dotnet new sln --name CsBases (crea la solucion)
+dotnet sln add CsBases.csproj (agrega el proyecto a la solución)
+
+En CsBases.csproj se agrega ItemGroup y el using para acortar el uso de Console
+<ItemGroup Label="ProjectReferences">
+    <using Include="System.Console" Static="true"/>
+</ItemGroup>

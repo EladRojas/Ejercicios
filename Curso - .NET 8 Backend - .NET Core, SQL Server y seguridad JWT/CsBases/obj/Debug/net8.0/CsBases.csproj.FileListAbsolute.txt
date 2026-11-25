@@ -1,0 +1,15 @@
+C:\Users\aripe\OneDrive\Agencia Aripemax\Proyectos Aripemax\Github\EladRojas\Ejercicios\Curso - .NET 8 Backend - .NET Core, SQL Server y seguridad JWT\CsBases\bin\Debug\net8.0\CsBases.exe
+C:\Users\aripe\OneDrive\Agencia Aripemax\Proyectos Aripemax\Github\EladRojas\Ejercicios\Curso - .NET 8 Backend - .NET Core, SQL Server y seguridad JWT\CsBases\bin\Debug\net8.0\CsBases.deps.json
+C:\Users\aripe\OneDrive\Agencia Aripemax\Proyectos Aripemax\Github\EladRojas\Ejercicios\Curso - .NET 8 Backend - .NET Core, SQL Server y seguridad JWT\CsBases\bin\Debug\net8.0\CsBases.runtimeconfig.json
+C:\Users\aripe\OneDrive\Agencia Aripemax\Proyectos Aripemax\Github\EladRojas\Ejercicios\Curso - .NET 8 Backend - .NET Core, SQL Server y seguridad JWT\CsBases\bin\Debug\net8.0\CsBases.dll
+C:\Users\aripe\OneDrive\Agencia Aripemax\Proyectos Aripemax\Github\EladRojas\Ejercicios\Curso - .NET 8 Backend - .NET Core, SQL Server y seguridad JWT\CsBases\bin\Debug\net8.0\CsBases.pdb
+C:\Users\aripe\OneDrive\Agencia Aripemax\Proyectos Aripemax\Github\EladRojas\Ejercicios\Curso - .NET 8 Backend - .NET Core, SQL Server y seguridad JWT\CsBases\obj\Debug\net8.0\CsBases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aripe\OneDrive\Agencia Aripemax\Proyectos Aripemax\Github\EladRojas\Ejercicios\Curso - .NET 8 Backend - .NET Core, SQL Server y seguridad JWT\CsBases\obj\Debug\net8.0\CsBases.AssemblyInfoInputs.cache
+C:\Users\aripe\OneDrive\Agencia Aripemax\Proyectos Aripemax\Github\EladRojas\Ejercicios\Curso - .NET 8 Backend - .NET Core, SQL Server y seguridad JWT\CsBases\obj\Debug\net8.0\CsBases.AssemblyInfo.cs
+C:\Users\aripe\OneDrive\Agencia Aripemax\Proyectos Aripemax\Github\EladRojas\Ejercicios\Curso - .NET 8 Backend - .NET Core, SQL Server y seguridad JWT\CsBases\obj\Debug\net8.0\CsBases.csproj.CoreCompileInputs.cache
+C:\Users\aripe\OneDrive\Agencia Aripemax\Proyectos Aripemax\Github\EladRojas\Ejercicios\Curso - .NET 8 Backend - .NET Core, SQL Server y seguridad JWT\CsBases\obj\Debug\net8.0\CsBases.sourcelink.json
+C:\Users\aripe\OneDrive\Agencia Aripemax\Proyectos Aripemax\Github\EladRojas\Ejercicios\Curso - .NET 8 Backend - .NET Core, SQL Server y seguridad JWT\CsBases\obj\Debug\net8.0\CsBases.dll
+C:\Users\aripe\OneDrive\Agencia Aripemax\Proyectos Aripemax\Github\EladRojas\Ejercicios\Curso - .NET 8 Backend - .NET Core, SQL Server y seguridad JWT\CsBases\obj\Debug\net8.0\refint\CsBases.dll
+C:\Users\aripe\OneDrive\Agencia Aripemax\Proyectos Aripemax\Github\EladRojas\Ejercicios\Curso - .NET 8 Backend - .NET Core, SQL Server y seguridad JWT\CsBases\obj\Debug\net8.0\CsBases.pdb
+C:\Users\aripe\OneDrive\Agencia Aripemax\Proyectos Aripemax\Github\EladRojas\Ejercicios\Curso - .NET 8 Backend - .NET Core, SQL Server y seguridad JWT\CsBases\obj\Debug\net8.0\CsBases.genruntimeconfig.cache
+C:\Users\aripe\OneDrive\Agencia Aripemax\Proyectos Aripemax\Github\EladRojas\Ejercicios\Curso - .NET 8 Backend - .NET Core, SQL Server y seguridad JWT\CsBases\obj\Debug\net8.0\ref\CsBases.dll
