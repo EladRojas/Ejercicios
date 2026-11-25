@@ -1,0 +1,12 @@
+Instalar SDK en el S.O., para este curso se instaló SDK 8
+
+En VS Code se instalan las extensiones:
+C# Dev Kit 
+SQL Server (mssql)
+
+""
+Se crea archivo global para que este entorno se ejecute con NET 8
+dotnet new globaljson --sdk-version 8.0.428
+""
+Se crea proyecto en consola:
+dotnet new console --name CsBases
